@@ -85,7 +85,7 @@ function draw()
     newblock15.display();
     newblock16.display();
 
-    slingShot.display();
+    //slingShot.display();
 
     polygon.display();
 }
